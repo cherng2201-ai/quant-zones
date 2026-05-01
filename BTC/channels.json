@@ -1,0 +1,25 @@
+{
+  "channels": [
+    {
+      "label": "",
+      "points": [
+        {
+          "time": 1770638400,
+          "price": 72293.39051133039
+        },
+        {
+          "time": 1778731200,
+          "price": 80572.36833440007
+        },
+        {
+          "time": 1770638400,
+          "price": 61637.01865403357
+        }
+      ]
+    }
+  ],
+  "deleted_from_algo": [],
+  "symbol": "BTC",
+  "category": "channels",
+  "captured_at_utc": "2026-05-01T22:11:35+00:00"
+}

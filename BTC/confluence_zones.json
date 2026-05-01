@@ -2,49 +2,37 @@
   "zones": [
     {
       "label": "CONF-S 3.3w",
-      "upper": 126638.84347806191,
-      "lower": 123494.44940219479,
+      "upper": 104482.99588873194,
+      "lower": 101888.72633053343,
       "bias": "SUPPORT"
     },
     {
       "label": "CONF-S 3.3w",
-      "upper": 98051.8216657663,
-      "lower": 95213.99803976624,
+      "upper": 97743.53971573724,
+      "lower": 95316.60806571183,
       "bias": "SUPPORT"
     },
     {
       "label": "CONF-S 3.3w",
-      "upper": 91075.62,
-      "lower": 89295.61,
+      "upper": 91138.58184763769,
+      "lower": 88549.17408812576,
       "bias": "SUPPORT"
     },
     {
       "label": "CONF-S 2.6w",
-      "upper": 84886.64,
-      "lower": 84018.43,
-      "bias": "SUPPORT"
-    },
-    {
-      "label": "CONF-S 2.6w",
-      "upper": 79285.56,
-      "lower": 78474.63,
-      "bias": "SUPPORT"
-    },
-    {
-      "label": "CONF-S 3.3w",
-      "upper": 67988.89072154276,
-      "lower": 64891.15029598368,
+      "upper": 80207.15987401422,
+      "lower": 79335.21413102998,
       "bias": "SUPPORT"
     },
     {
       "label": "CONF-S 2.5w",
       "upper": 60363.2,
-      "lower": 58064.076785621,
+      "lower": 59709.07695385983,
       "bias": "SUPPORT"
     }
   ],
   "deleted_from_algo": [],
   "symbol": "BTC",
   "category": "confluence_zones",
-  "captured_at_utc": "2026-04-30T21:50:00+00:00"
+  "captured_at_utc": "2026-05-01T22:11:37+00:00"
 }
