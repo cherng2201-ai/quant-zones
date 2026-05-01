@@ -1,0 +1,138 @@
+{
+  "levels": [
+    {
+      "label": "R9+",
+      "price": 4109.99,
+      "major": true
+    },
+    {
+      "label": "R7",
+      "price": 3580.0,
+      "major": false
+    },
+    {
+      "label": "R6+",
+      "price": 3398.4527719773782,
+      "major": true
+    },
+    {
+      "label": "R5",
+      "price": 3068.4020087871436,
+      "major": false
+    },
+    {
+      "label": "R4+",
+      "price": 2879.0,
+      "major": true
+    },
+    {
+      "label": "R3+",
+      "price": 2800.0,
+      "major": true
+    },
+    {
+      "label": "R2+",
+      "price": 2632.4418547223536,
+      "major": true
+    },
+    {
+      "label": "R1+",
+      "price": 2383.1741620739763,
+      "major": true
+    },
+    {
+      "label": "S1+",
+      "price": 2111.0,
+      "major": true
+    },
+    {
+      "label": "S2",
+      "price": 2030.0,
+      "major": false
+    },
+    {
+      "label": "S3+",
+      "price": 1930.0,
+      "major": true
+    },
+    {
+      "label": "S4+",
+      "price": 1737.6335372053163,
+      "major": true
+    },
+    {
+      "label": "S7",
+      "price": 1514.5,
+      "major": false
+    },
+    {
+      "label": "S8",
+      "price": 1460.0,
+      "major": false
+    },
+    {
+      "label": "S9+",
+      "price": 1379.870539747268,
+      "major": true
+    },
+    {
+      "label": "S10+",
+      "price": 1073.762054313332,
+      "major": true
+    },
+    {
+      "label": "S11+",
+      "price": 871.3879737007826,
+      "major": true
+    }
+  ],
+  "deleted_from_algo": [
+    {
+      "label": "SR 2\u00d7/8r",
+      "price": 2356.0
+    },
+    {
+      "label": "SR 2\u00d7/23r",
+      "price": 2647.8
+    },
+    {
+      "label": "SR 2\u00d7/10r",
+      "price": 3100.0
+    },
+    {
+      "label": "SR 1\u00d7/24r",
+      "price": 3282.96
+    },
+    {
+      "label": "SR 1\u00d7/11r",
+      "price": 3735.31
+    },
+    {
+      "label": "SR 1\u00d7/11r",
+      "price": 4379.18
+    },
+    {
+      "label": "SR 2\u00d7/8r",
+      "price": 1780.0
+    },
+    {
+      "label": "SR 7\u00d7/10r",
+      "price": 1679.4
+    },
+    {
+      "label": "SR 1\u00d7/9r",
+      "price": 1625.5
+    },
+    {
+      "label": "SR 4\u00d7/2r",
+      "price": 1354.4
+    },
+    {
+      "label": "SR 1\u00d7/6r",
+      "price": 1218.0
+    }
+  ],
+  "symbol": "ETH",
+  "category": "sr",
+  "captured_at_utc": "2026-05-01T13:49:20+00:00"
+}

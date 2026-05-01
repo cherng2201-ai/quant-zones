@@ -1,0 +1,30 @@
+{
+  "trendlines": [
+    {
+      "label": "",
+      "point_a": {
+        "time": 1759708800,
+        "price": 126526.4735669268
+      },
+      "point_b": {
+        "time": 1778889600,
+        "price": 71791.84616507318
+      }
+    },
+    {
+      "label": "",
+      "point_a": {
+        "time": 1770422400,
+        "price": 59710.066410594285
+      },
+      "point_b": {
+        "time": 1778889600,
+        "price": 71791.84616507318
+      }
+    }
+  ],
+  "deleted_from_algo": [],
+  "symbol": "BTC",
+  "category": "trendlines",
+  "captured_at_utc": "2026-04-30T21:49:58+00:00"
+}

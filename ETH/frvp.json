@@ -1,0 +1,46 @@
+{
+  "frvp": [
+    {
+      "label": "VAH",
+      "price": 3673.0009090520684,
+      "kind": "vah"
+    },
+    {
+      "label": "VAH",
+      "price": 3673.0009090520684,
+      "kind": "vah"
+    },
+    {
+      "label": "VAH",
+      "price": 3673.0009090520684,
+      "kind": "vah"
+    },
+    {
+      "label": "POC",
+      "price": 2071.8923961754294,
+      "kind": "poc"
+    },
+    {
+      "label": "VAL",
+      "price": 1739.0104922574078,
+      "kind": "val"
+    }
+  ],
+  "deleted_from_algo": [
+    {
+      "label": "VAH",
+      "price": 2893.4254
+    },
+    {
+      "label": "POC",
+      "price": 1225.9029500000001
+    },
+    {
+      "label": "VAL",
+      "price": 1218.0
+    }
+  ],
+  "symbol": "ETH",
+  "category": "frvp",
+  "captured_at_utc": "2026-05-01T13:49:22+00:00"
+}

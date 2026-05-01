@@ -1,0 +1,50 @@
+{
+  "zones": [
+    {
+      "label": "CONF-S 3.3w",
+      "upper": 126638.84347806191,
+      "lower": 123494.44940219479,
+      "bias": "SUPPORT"
+    },
+    {
+      "label": "CONF-S 3.3w",
+      "upper": 98051.8216657663,
+      "lower": 95213.99803976624,
+      "bias": "SUPPORT"
+    },
+    {
+      "label": "CONF-S 3.3w",
+      "upper": 91075.62,
+      "lower": 89295.61,
+      "bias": "SUPPORT"
+    },
+    {
+      "label": "CONF-S 2.6w",
+      "upper": 84886.64,
+      "lower": 84018.43,
+      "bias": "SUPPORT"
+    },
+    {
+      "label": "CONF-S 2.6w",
+      "upper": 79285.56,
+      "lower": 78474.63,
+      "bias": "SUPPORT"
+    },
+    {
+      "label": "CONF-S 3.3w",
+      "upper": 67988.89072154276,
+      "lower": 64891.15029598368,
+      "bias": "SUPPORT"
+    },
+    {
+      "label": "CONF-S 2.5w",
+      "upper": 60363.2,
+      "lower": 58064.076785621,
+      "bias": "SUPPORT"
+    }
+  ],
+  "deleted_from_algo": [],
+  "symbol": "BTC",
+  "category": "confluence_zones",
+  "captured_at_utc": "2026-04-30T21:50:00+00:00"
+}

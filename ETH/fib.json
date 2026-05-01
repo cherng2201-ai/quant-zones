@@ -1,0 +1,18 @@
+{
+  "fibs": [
+    {
+      "label": "Fib 0.618 R",
+      "price": 3732.56939481823,
+      "major": false
+    }
+  ],
+  "deleted_from_algo": [
+    {
+      "label": "Fib 0.618",
+      "price": 2079.43036
+    }
+  ],
+  "symbol": "ETH",
+  "category": "fib",
+  "captured_at_utc": "2026-05-01T13:49:21+00:00"
+}

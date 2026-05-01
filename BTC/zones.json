@@ -1,0 +1,12 @@
+{
+  "zones": [],
+  "deleted_from_algo": [
+    {
+      "label": "S-Zone",
+      "price": 78164.20000000001
+    }
+  ],
+  "symbol": "BTC",
+  "category": "zones",
+  "captured_at_utc": "2026-05-01T18:59:18+00:00"
+}
